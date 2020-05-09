@@ -1,6 +1,6 @@
 # project
 The following project is a SQL injections which allows a student to view all the grades in their gym glass. 
-To start the project, git clone https://github.com/jj542/jaison_johnson635
+To start the project, git clone https://github.com/jj542/project
 
 CD into the folder and run "docker-compose up"
 Once, the project is running inside the terminal, open a web browser, and go to http://localhost:8888/.
